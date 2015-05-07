@@ -1,6 +1,8 @@
 function read(query, user, request) {
 
     request.execute();
-    console.log("Milo node ");
+
+    request.respond(console.log("Milo node "));
+    
 
 }
