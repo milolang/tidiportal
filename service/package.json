@@ -6,10 +6,12 @@
   "engines": {
     "node": ">= 0.8.19"
   },
-  "dependencies": {},
+  "dependencies": {
+    "node-uuid": "^1.4.3"
+  },
   "devDependencies": {},
   "scripts": {},
   "author": "unknown",
   "licenses": [],
-  "keywords":[]
+  "keywords": []
 }
