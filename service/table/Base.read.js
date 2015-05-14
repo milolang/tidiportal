@@ -1,5 +1,5 @@
 function read(query, user, request) {
-    console.log("BMW");
+    console.log(user + " " + request);
     request.execute();    
 
 }
